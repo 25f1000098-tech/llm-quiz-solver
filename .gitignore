@@ -1,0 +1,7 @@
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables & Secrets
+.env

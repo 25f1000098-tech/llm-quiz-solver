@@ -1,0 +1,8 @@
+flask
+requests
+python-dotenv
+openai
+playwright
+pdfplumber
+pandas
+gunicorn
